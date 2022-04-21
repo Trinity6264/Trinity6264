@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Trinity
-- 👀 I’m interested in flutter,python javascripte
-- 🌱 I’m currently flutter
-- 💞️ I’m looking to collaborate on dawurobo
+- 👋 Hi, I’m @Amoah Alexander
+- 👀 I’m interested in flutter,python javascript
+- 🌱 I’m currently freelancer working with flutter
 - 📫 How to reach me ...
 
 <!---
