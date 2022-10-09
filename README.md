@@ -12,17 +12,17 @@
 
 <p align="left"> <a href="https://twitter.com/kobi_play" target="blank"><img src="https://img.shields.io/twitter/follow/kobi_play?logo=twitter&style=for-the-badge" alt="kobi_play" /></a> </p>
 
-- 🔭 I’m currently working on [Whatsapp clone](https://github.com/Trinity6264/Whatsapp_like.git)
+- 🔭 I’m currently working on [Uniplex Movie Recommendation](https://github.com/Trinity6264/Uniplex.git)
 
 - 🌱 I’m currently learning **flutter, React,Boostrap**
 
-- 👯 I’m looking to collaborate on **Any project**
+- 👯 I’m looking to collaborate on **Mern and Flutter**
 
 - 🤝 I’m looking for help with **Web design and mobile app**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Trinity6264](https://github.com/Trinity6264)
 
-- 💬 Ask me about **Flutter, React,Boostrap**
+- 💬 Ask me about **Flutter, Mern,Boostrap**
 
 - 📫 How to reach me **amoahtnt6@gmail.com**
 
