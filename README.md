@@ -12,7 +12,7 @@ I'm Amoah Alexander, Mern and Flutter developer and passionate software engineer
 * 🌍  I'm based in Ghana
 * 🖥️  See my portfolio at [Github Profile](http://github.com/Trinity6264)
 * ✉️  You can contact me at [amoahtnt6@gmail.com](mailto:amoahtnt6@gmail.com)
-* 🚀  I'm currently working on [uniplex](http://github.com/Trinity6264/uniplexs)
+* 🚀  I'm currently working on [Flutter dictionary](https://github.com/Trinity6264/dictionary)
 * 🧠  I'm learning React and flutter
 * 🤝  I'm open to collaborating on React & Flutter projects
 * ⚡  HAKUNA MATATA
