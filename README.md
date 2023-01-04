@@ -20,6 +20,7 @@ I'm Amoah Alexander, Mern and Flutter developer and passionate software engineer
 <a href="https://www.twitter.com/KObi_plAy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/KObi_plAy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=0f172a"/></a><a href="https://www.github.com/Trinity6264" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Trinity6264?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
+[![wakatime](https://wakatime.com/badge/user/4ecbd6ee-c070-4c1e-9415-5b57736ff4c6.svg)](https://wakatime.com/@4ecbd6ee-c070-4c1e-9415-5b57736ff4c6)
 
 ### Skills
 
