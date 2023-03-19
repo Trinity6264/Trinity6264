@@ -6,6 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+
 Web and Mobile Developer
 ------------------------
 I'm Amoah Alexander, Mern and Flutter developer and passionate software engineer, I build backend RESful APIs with NODEJS but for consuming RESTful APIs i use flutter and react as the client. I love coding and networking to get to know many people around the world.
