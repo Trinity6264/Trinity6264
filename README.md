@@ -6,7 +6,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-
 Web and Mobile Developer
 ------------------------
 I'm Amoah Alexander, Mern and Flutter developer and passionate software engineer, I build backend RESful APIs with NODEJS but for consuming RESTful APIs i use flutter and react as the client. I love coding and networking to get to know many people around the world.
@@ -34,7 +33,6 @@ src="https://img.shields.io/github/followers/Trinity6264?logo=github&style=for-t
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trinity6264&label=Profile%20views&color=0e75b6&style=flat" alt="trinity6264" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trinity6264" alt="trinity6264" /></a> </p>
-
 
 <a href="http://www.github.com/Trinity6264"><img src="https://github-readme-stats.vercel.app/api?username=Trinity6264&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="Trinity6264's GitHub stats" /></a>
 
