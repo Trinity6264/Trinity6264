@@ -49,4 +49,4 @@ Mobile, web, and backend engineer building production-grade apps with Flutter, K
   <img alt="Top languages used by Alexander Amoah" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trinity6264&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6&icon_color=64ffda" height="170" />
 </p>
 
-<img alt="Alexander Amoah's GitHub streak" src="https://nirzak-streak-stats.vercel.app/?user=Trinity6264&hide_border=true&background=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=ccd6f6&currStreakNum=ccd6f6&sideNums=ccd6f6&dates=8892b0" />
+<img alt="Alexander Amoah's GitHub streak" src="https://streak-stats.demolab.com?user=Trinity6264&hide_border=true&background=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=ccd6f6&currStreakNum=ccd6f6&sideNums=ccd6f6&dates=8892b0" />
